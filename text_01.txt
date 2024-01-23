@@ -1,6 +1,11 @@
-This line will conflict
+THIS IS TEXT 01 UPDATED
+
+Line 1
 
 
+Line 6
 
 
-This line is conflicting with main branch
+Line 9
+
+not conflict
